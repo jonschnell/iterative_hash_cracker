@@ -1,11 +1,11 @@
 '''
-Created on Jan 7, 2020
+Created on 9/15/21
 
 @author: Jonathon Schnell
 
-@date: 1/7/2019
+@date: 9/15/21
 
-@version: 1.0.1
+@version: 1.0
 
 '''
 import argparse
